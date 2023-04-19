@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181373406888",
+    "project_id": "calling-b0622",
+    "storage_bucket": "calling-b0622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181373406888:android:de3d6347ae17d35c67fc9d",
+        "android_client_info": {
+          "package_name": "com.example.calling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181373406888-vdraerm34945cg2oba7va6pv55pp6028.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calling",
+            "certificate_hash": "f416c6e98b2fc32621d959cd50dce6b777785a12"
+          }
+        },
+        {
+          "client_id": "181373406888-lph51t73lheoc2cnpoc27hcb5gj3v0q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvepIhBZfgqRO2aEaOij6bC0ecFaNRYSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181373406888-lph51t73lheoc2cnpoc27hcb5gj3v0q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
